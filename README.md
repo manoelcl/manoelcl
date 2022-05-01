@@ -1,6 +1,7 @@
 <h1 align=center> Manoel Castro </h1>
 <h3>3D generalist exploring web development</h3>
 <p align=right> </p>
+
 - 🔭 I’m currently working on personal projects
 
 - 🌱 I’m currently learning Three.js
