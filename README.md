@@ -1,7 +1,7 @@
 <h1 align=center> Manoel Castro </h1>
 <h3>Front-end web developer and 3D generalist</h3>
 
-- 🔭 I’m currently working on personal projects and looking for a job
+- 🔭 I’m currently working on personal projects and looking for a job as a junior frontend or fullstack web developer.
 
 - 🌱 I’m currently learning Three.js
 
